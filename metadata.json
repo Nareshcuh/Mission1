@@ -1,0 +1,7 @@
+{
+  "name": "Saathi - Citation Assistant",
+  "description": "An AI-powered voice assistant for the Online Citation Tool, specializing in Indian Bibliographic Reference Style.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
